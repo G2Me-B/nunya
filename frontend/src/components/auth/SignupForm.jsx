@@ -98,6 +98,7 @@ const SignupForm = () => {
     "Upper West Region",
     "Western Region",
     "Western North Region",
+    "Volta Region"
   ];
   useEffect(() => {
     function handleClickOutside(event) {
