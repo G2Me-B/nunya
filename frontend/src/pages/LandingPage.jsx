@@ -5,7 +5,7 @@ import SignupForm from '../components/auth/SignupForm'
 export default function LandingPage() {
     return (
         <main className="min-h-screen flex items-center justify-center bg-gradient-to-br from-sky-50 via-indigo-50 to-pink-50 p-6">
-            {/* Top-right auth links */}
+            {/* Top-right links for auth */}
             <div className="absolute top-6 left-6 flex items-center gap-3">
                 <a
                     href="/auth/login"
